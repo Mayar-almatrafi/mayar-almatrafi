@@ -2,7 +2,7 @@
 I'm an **AI undergraduate student** | Interested in **Data Science, Machine Learning, NLP, and Applied AI**.                                                                      
 B.Sc. in Artificial Intelligence – Taibah University , Saudi Arabia
 
-I build practical AI solutions through **hackathons, academic projects, and hands-on experimentation** — focusing on turning real problems into clear, usable systems.
+I build practical AI solutions through **hackathons, academic projects, and hands-on experimentation** , focusing on turning real problems into clear, usable systems.
 
 ##  Technical Skills :
 - **Programming:** Python, SQL ,Java , C++
