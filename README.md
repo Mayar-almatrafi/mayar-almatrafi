@@ -1,4 +1,4 @@
-Hi , I'm Mayar AL-matrafi.
+Hi , I'm Mayar AL-matrafi                                                                                                                                                                                                                                                                                                                    
 an **AI undergraduate student** | Interested in **Data Science, Machine Learning, NLP, and Applied AI**.
 B.Sc. in Artificial Intelligence – Taibah University , Saudi Arabia
 
