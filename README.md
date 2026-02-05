@@ -1,4 +1,4 @@
-## Hi , I'm Mayar AL-matrafi**                                                                                                                                                                                                                                                                                                                    
+## Hi , I'm Mayar AL-matrafi,                                                                                                                                                                                                                                                                                                                  
 I'm an **AI undergraduate student** | Interested in **Data Science, Machine Learning, NLP, and Applied AI**.
 B.Sc. in Artificial Intelligence – Taibah University , Saudi Arabia
 
@@ -16,5 +16,5 @@ I build practical AI solutions through **hackathons, academic projects, and hand
 
 ## Contact 📥
 - LinkedIn: 
-- Email: mayarralmatrafo@gmail.com
+- Email: mayarralmatrafi@gmail.com
 - GitHub: https://github.com/mayar-almatrafi
