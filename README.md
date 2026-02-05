@@ -6,7 +6,7 @@ I build practical AI solutions through **hackathons, academic projects, and hand
 
 ##  Technical Skills :
 - **Programming:** Python, SQL ,Java , C++
-- **Data & ML:** Pandas, NumPy, scikit-learn, Matplotlib, EDA, feature selection, model evaluation
+- **Data & ML:** Data & features Engineering , 
 - **Tools:** Power BI,
 - **AI Areas:** Machine Learning, NLP
 - **Languages:** Arabic, English
