@@ -8,11 +8,10 @@ I build practical AI solutions through **hackathons, academic projects, and hand
 - **Programming:** Python, SQL ,Java , C++
 - **Data & ML:** Data & features Engineering , 
 - **Tools:** Power BI,
-- **AI Areas:** Machine Learning, NLP
 - **Languages:** Arabic, English
 
 
-## Currently Looking For An Internship ⭕.
+## Currently Looking For A Summer Internship ⭕.
 
 ## Contact 📥
 - LinkedIn: 
