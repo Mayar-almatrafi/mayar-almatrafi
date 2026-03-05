@@ -9,7 +9,7 @@ I build practical AI solutions through **hackathons, academic projects, and hand
 - **Data & AI & Tools:** Data Analysis, Machine Learning, Feature Engineering, Data Preprocessing, Power BI.
 
 ## 🎯 Currently Looking For
-- **Summer Internship:** AI / Machine Learning / Data
+- **Summer Internship:** AI / Machine Learning / Data Analysis
 
 ## Contact 📥
 - LinkedIn: https://www.linkedin.com/in/mayar-a-24b8bb316?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
